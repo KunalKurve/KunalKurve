@@ -131,21 +131,6 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://github.com/vish2002/vish2002/blob/main/chat-gpt%20(1).png?raw=true" title="ChatGPT" alt="ChatGPT" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" title="github" alt="github" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" title="Json" alt="Json" width="55" height="55"/> |
 
-
-</div>
-<h3 align="center" style="font-size: 30px;">My Github Stats! <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalKurve&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="390" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKurve&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="390" height="200"/>
-    </td>
-  </tr>
-</table>
-
 <!-- ### 🛠️ Tools & Technologies I Use:
 <div align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
