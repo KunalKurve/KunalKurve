@@ -116,7 +116,6 @@
 - 🖥️ [GitHub](https://github.com/KunalKurve)
 - 📧 [Email Me](mailto:masterkunal095@gmail.com)
 
----
 <p align="left">
   <a href="https://leetcode.com/u/kunalkurve/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
