@@ -89,32 +89,27 @@
 [![](https://img.shields.io/badge/RCNN-FF5733?style=for-the-badge&logo=opencv&logoColor=white)](https://www.learnopencv.com/tag/rcnn/)
 [![](https://img.shields.io/badge/Darknet-000080?style=for-the-badge&logo=opencv&logoColor=white)](https://pjreddie.com/darknet/)
 
----
 
-### 🏢 Professional Experience:
-**IBM, Software Labs**  
-*Project Intern (Software Engineering & Data Analyst)*  
-- Reclassified **30,000+ alerts** across **10 servers**, improving monitoring system efficiency.  
-- Reduced alert misclassification by **80%** through a scalable Python-operated pipeline.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-kurve-robolover/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masterkunal095@gmail.com) 
 
-**Trident Labs, VIT Pune**  
-*Software Engineer, Autonomous Underwater Vehicle Team Lead*  
-- Achieved **75% real-time image accuracy** for underwater tasks with Python and OpenCV.  
-- Created simulation environments using **UWSim**, enhancing reliability and efficiency.  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KunalKurve&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KunalKurve&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKurve&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**Conexstra Technologies**  
-*Software Developer Intern*  
-- Developed vehicle simulations with **CARLA Simulator**, achieving **95% accuracy** in safety testing.  
-- Delivered impactful B2B insights via predictive analytics.  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 📊 Key Projects:
-- **Text Classifier using BERT:** Fine-tuned parameters and engineered features, achieving **85% precision** on unseen data.  
-- **IoT Parking System:** Designed a low-latency, high-accuracy system (**92% accuracy**) using Docker, Python, and MongoDB.  
-- **Autonomous Underwater Vehicle:** Built a Python-based operating system for real-time debugging and precision tasks.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KunalKurve&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=KunalKurve&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🌐 Let's Connect!
 - 💼 [Resume](https://github.com/akulka404/akulka404/blob/main/Resume-Aniruddha%20Kulkarni.pdf)
