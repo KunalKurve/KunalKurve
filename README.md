@@ -11,7 +11,8 @@
 ---
 
 ### 🚀 About Me:
-- 🌟 **Graduate Student in Instrumentation and Control** from **Vishwakarma Institute of Technology** *(CGPA: 8.34/10.0)*  
+- 🌟 **PostGraduate Diploma in Artificial Intelligence** from **Centre for Development of Advanced Computing (C.D.A.C.)** *(Achieved 82%)*  
+- 🌟 **Graduate in Instrumentation and Control** from **Vishwakarma Institute of Technology** *(CGPA: 8.34/10.0)* 
 - 🔧 Passionate about **Machine Learning**, **Natural Language Processing**, and **Predictive Analytics**.  
 - 🛠️ Experienced in developing scalable, efficient, and impactful data solutions.  
 - 📈 Skilled in frameworks like **TensorFlow**, **PyTorch**, **scikit-learn**, and **BERT**.  
