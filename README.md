@@ -112,7 +112,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🌐 Let's Connect!
-- 💼 [Resume](https://github.com/KunalKurve/KunalKurve/blob/0a8fa0064f26a82cb54895d22ad238314bb82846/Kunal-Kurve-Resume-%20CDAC_09032025.pdf)
+- 💼 [Resume](https://github.com/KunalKurve/Portfolio/blob/main/resume.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kunalkurve219/)
 - 🖥️ [GitHub](https://github.com/KunalKurve)
 - 📧 [Email Me](mailto:masterkunal095@gmail.com)
