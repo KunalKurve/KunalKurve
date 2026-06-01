@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋 Namaste 🙏</h1>
 <h2 align="center">I'm Kunal Kurve! <img align="center" src="https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif" width="40"> </h2>
-<h3 align="center"> Data Science 🔬 | Predictive Analytics ∞ | NLP | Generative AI</h3>
+<h3 align="center"> Spring Boot | Data Science 🔬 |  Machine Learning | Deep Learning ∞ | NLP & CV | Generative AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunalkurve219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -11,8 +11,8 @@
 ---
 
 ### 🚀 About Me:
-- 🌟 **PostGraduate Diploma in Artificial Intelligence** from **Centre for Development of Advanced Computing (C.D.A.C.)** *(Achieved 82%)*  
-- 🌟 **Graduate in Instrumentation and Control** from **Vishwakarma Institute of Technology** *(CGPA: 8.34/10.0)* 
+- 🌟 **PostGraduate Diploma in Artificial Intelligence** from **Centre for Development of Advanced Computing, Pune (C.D.A.C.)** *(Achieved 82%)*  
+- 🌟 **Graduate in Instrumentation and Control** from **Vishwakarma Institute of Technology, Pune** *(CGPA: 8.34/10.0)* 
 - 🔧 Passionate about **Machine Learning**, **Natural Language Processing**, and **Predictive Analytics**.  
 - 🛠️ Experienced in developing scalable, efficient, and impactful data solutions.  
 - 📈 Skilled in frameworks like **TensorFlow**, **PyTorch**, **scikit-learn**, and **BERT**.  
