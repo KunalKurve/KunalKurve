@@ -1,21 +1,22 @@
 <h1 align="center">Hola 👋 Namaste 🙏</h1>
 <h2 align="center">I'm Kunal Kurve! <img align="center" src="https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif" width="40"> </h2>
-<h3 align="center"> Spring Boot | Data Science 🔬 |  Machine Learning | Deep Learning ∞ | NLP & CV | Generative AI</h3>
+<h3 align="center"> Spring Boot | System Design | Software Development | Data Science 🔬 |  Machine Learning | Deep Learning ∞ | NLP & CV | Agentic AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunalkurve219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://github.com/KunalKurve/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
-  <a href="mailto:masterkunal095@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="mailto:kunal.kurve219@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
 ---
 
 ### 🚀 About Me:
+- 🌟 **Masters in Computer Science** from **Woolf University, Malta (via Scaler Neovarsity)** *(GPA 4.0)*  
 - 🌟 **PostGraduate Diploma in Artificial Intelligence** from **Centre for Development of Advanced Computing, Pune (C.D.A.C.)** *(Achieved 82%)*  
 - 🌟 **Graduate in Instrumentation and Control** from **Vishwakarma Institute of Technology, Pune** *(CGPA: 8.34/10.0)* 
-- 🔧 Passionate about **Machine Learning**, **Natural Language Processing**, and **Predictive Analytics**.  
+- 🔧 Passionate about **Software Development**, **Machine Learning**, and **Agentic AI**.  
 - 🛠️ Experienced in developing scalable, efficient, and impactful data solutions.  
-- 📈 Skilled in frameworks like **TensorFlow**, **PyTorch**, **scikit-learn**, and **BERT**.  
+- 📈 Skilled in frameworks like **DSA**, **SQL**, **Spring Boot**, **System Design**, and **Agentic AI**.  
 <br>
 
 
@@ -92,7 +93,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-kurve-robolover/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masterkunal095@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunalkurve219/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunal.kurve219@gmail.com) 
 
 
 # 📊 GitHub Stats:
@@ -115,7 +116,7 @@
 - 💼 [Resume](https://github.com/KunalKurve/Portfolio/blob/main/resume.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kunalkurve219/)
 - 🖥️ [GitHub](https://github.com/KunalKurve)
-- 📧 [Email Me](mailto:masterkunal095@gmail.com)
+- 📧 [Email Me](mailto:kunal.kurve219@gmail.com)
 
 <p align="left">
   <a href="https://leetcode.com/u/kunalkurve/" target="blank">
