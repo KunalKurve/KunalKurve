@@ -16,7 +16,7 @@
 - 🌟 **Graduate in Instrumentation and Control** from **Vishwakarma Institute of Technology, Pune** *(CGPA: 8.34/10.0)* 
 - 🔧 Passionate about **Software Development**, **Machine Learning**, and **Agentic AI**.  
 - 🛠️ Experienced in developing scalable, efficient, and impactful data solutions.  
-- 📈 Skilled in frameworks like **DSA**, **SQL**, **Spring Boot**, **System Design**, and **Agentic AI**.  
+- 📈 Skilled in **DSA**, **SQL**, **Spring Boot**, **System Design**, and **Agentic AI**.  
 <br>
 
 
